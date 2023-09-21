@@ -71,11 +71,7 @@ These metrics are essential for evaluating the quality of the model's prediction
 
 ## Results
 
-If available, include sample segmentation results or visualizations to showcase the model's performance on polyp segmentation tasks.
-
 ## Authors
-
-List the authors or contributors to this project, along with their contact information if desired.
 
 ## Contact Information
 
@@ -85,5 +81,3 @@ For any inquiries or further information, please feel free to contact me via ema
 
 
 ## References
-
-Include relevant research papers, articles, or documentation that inspired or guided the development of your ASPP integrated UNet model.
