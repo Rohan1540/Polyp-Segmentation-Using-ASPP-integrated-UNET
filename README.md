@@ -83,6 +83,18 @@ Our model for the semantic segmentation of polyps has shown outstanding performa
 
 These impressive results highlight the effectiveness of our approach for the semantic segmentation of polyps. The high accuracy, combined with strong recall and precision, underscores the model's potential for assisting in medical image analysis and diagnosis.
 
+The images of the acquired resultes are posted below:
+
+![sample_image1](Images/a.png)
+![sample_image2](Images/b.png)
+![sample_image3](Images/c.png)
+![sample_image4](Images/d.png)
+
+
+The Accuracy vs Loss graph plotted for 100 epochs is:
+![sample_image2](Images/e.png)
+
+
 ## Authors
 
 ## Contact Information
