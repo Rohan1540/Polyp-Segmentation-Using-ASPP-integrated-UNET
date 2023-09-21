@@ -71,6 +71,18 @@ These metrics are essential for evaluating the quality of the model's prediction
 
 ## Results
 
+Our model for the semantic segmentation of polyps has shown outstanding performance on the dataset. Here are the key metrics that highlight the quality of our segmentation:
+
+- **Accuracy**: The model achieved an accuracy of 97%, indicating that it correctly predicted polyp regions in 97% of cases.
+
+- **Recall**: With a recall score of 91.87%, our model effectively identified 91.87% of all polyp regions present in the images.
+
+- **Precision**: Our model demonstrated precise predictions with a precision score of 96.79%. This means that when it predicted polyp regions, it was correct in 96.79% of the cases.
+
+- **Loss**: The model's loss function, which quantifies the dissimilarity between predicted and ground truth masks, is at 11.68%. This low loss value reflects the model's ability to make accurate predictions.
+
+These impressive results highlight the effectiveness of our approach for the semantic segmentation of polyps. The high accuracy, combined with strong recall and precision, underscores the model's potential for assisting in medical image analysis and diagnosis.
+
 ## Authors
 
 ## Contact Information
