@@ -106,6 +106,3 @@ The Accuracy vs Loss graph plotted for 100 epochs is:
 For any inquiries or further information, please feel free to contact me via email:
 
 - **Email**: [Rohan Kumar Sharma](mailto:srohan262@gmail.com)
-
-
-## References
