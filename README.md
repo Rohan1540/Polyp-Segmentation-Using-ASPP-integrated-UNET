@@ -64,7 +64,7 @@ The following evaluation metrics are used in this project for assessing the mode
 
 - **Accuracy**: Provides a general measure of model performance.
 
-**Loss (Sigmoid Cross-Entropy)**: Quantifies the dissimilarity between predicted and ground truth masks using the Sigmoid Cross-Entropy loss function.
+- **Loss (Binary Cross-Entropy)**: Quantifies the dissimilarity between predicted and ground truth masks.
 
 These metrics are essential for evaluating the quality of the model's predictions and its ability to perform accurate semantic segmentation.
 
