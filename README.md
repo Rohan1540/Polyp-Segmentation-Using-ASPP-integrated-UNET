@@ -99,7 +99,7 @@ The Accuracy vs Loss graph plotted for 100 epochs is:
 
 **Rohan Kumar Sharma**
 - GitHub: [Rohan1540](https://github.com/Rohan1540)
-- Email: srohan262@gmail.com
+- Email: rohankumarsharma857@gmail.com
 
 ## Contact Information
 
